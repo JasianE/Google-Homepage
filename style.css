@@ -1,0 +1,50 @@
+img{
+    display: block;
+    margin: auto;
+    padding: 50px;
+  }
+  input{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 30px;
+    border-radius: 30px;
+    
+  }
+  .ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 100em;
+    bottom: 13em;
+  }
+  .l:hover{
+    text-decoration: underline;
+    
+  }
+  .padding{
+    padding: 15px;
+  }
+  .padding:hover{
+    text-decoration: underline;
+  }
+  #sign-in{
+    background-color: blue;
+    color: white;
+    height: 2em;
+    width: 6em;
+  }
+  #sign-in:hover{
+    box-shadow: 5px;
+  }
+  .footer{
+    position: relative;
+    top: 10em;
+    left: 100em;
+    height: 20em;
+  }
+  
+  
+  
+  

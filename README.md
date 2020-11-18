@@ -1,0 +1,1 @@
+Google Homepage is a mini project with the goal to introduce and familiarize myself into how proffesional web pages are built. 
